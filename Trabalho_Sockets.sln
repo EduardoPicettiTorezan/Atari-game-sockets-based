@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho_Sockets", "Trabalho_Sockets\Trabalho_Sockets\Trabalho_Sockets.csproj", "{5FD0D923-F7BC-4E3D-8E3A-11A518D05933}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F9F0400B-FC20-4AB1-A691-5FCBA520F985} = {F9F0400B-FC20-4AB1-A691-5FCBA520F985}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho_SocketsContent", "Trabalho_Sockets\Trabalho_SocketsContent\Trabalho_SocketsContent.contentproj", "{4D64DFD0-1FF0-4D40-B84D-2221BB69DFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gameServer", "gameServer\gameServer.csproj", "{F9F0400B-FC20-4AB1-A691-5FCBA520F985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD0D923-F7BC-4E3D-8E3A-11A518D05933}.Debug|x86.ActiveCfg = Debug|x86
+		{5FD0D923-F7BC-4E3D-8E3A-11A518D05933}.Debug|x86.Build.0 = Debug|x86
+		{5FD0D923-F7BC-4E3D-8E3A-11A518D05933}.Release|x86.ActiveCfg = Release|x86
+		{5FD0D923-F7BC-4E3D-8E3A-11A518D05933}.Release|x86.Build.0 = Release|x86
+		{4D64DFD0-1FF0-4D40-B84D-2221BB69DFAC}.Debug|x86.ActiveCfg = Debug|x86
+		{4D64DFD0-1FF0-4D40-B84D-2221BB69DFAC}.Release|x86.ActiveCfg = Release|x86
+		{F9F0400B-FC20-4AB1-A691-5FCBA520F985}.Debug|x86.ActiveCfg = Debug|x86
+		{F9F0400B-FC20-4AB1-A691-5FCBA520F985}.Debug|x86.Build.0 = Debug|x86
+		{F9F0400B-FC20-4AB1-A691-5FCBA520F985}.Release|x86.ActiveCfg = Release|x86
+		{F9F0400B-FC20-4AB1-A691-5FCBA520F985}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

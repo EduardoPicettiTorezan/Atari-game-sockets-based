@@ -1,0 +1,12 @@
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\bin\Release\gameServer.exe.manifest
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\bin\Release\gameServer.application
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\bin\Release\gameServer.exe
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\bin\Release\gameServer.pdb
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\gameServer.Properties.Resources.resources
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\gameServer.exe.manifest
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\gameServer.application
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\gameServer.exe
+D:\DevGames\Projetos\Trabalho_Sockets\gameServer\obj\x86\Release\gameServer.pdb
